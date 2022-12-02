@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/covid_live/static/css/main.073c9b0a.css",
+    "main.js": "/covid_live/static/js/main.d1369ede.js",
+    "static/js/787.3353a8a3.chunk.js": "/covid_live/static/js/787.3353a8a3.chunk.js",
+    "static/media/logo.svg": "/covid_live/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/covid_live/index.html",
+    "main.073c9b0a.css.map": "/covid_live/static/css/main.073c9b0a.css.map",
+    "main.d1369ede.js.map": "/covid_live/static/js/main.d1369ede.js.map",
+    "787.3353a8a3.chunk.js.map": "/covid_live/static/js/787.3353a8a3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.d1369ede.js"
+  ]
+}
